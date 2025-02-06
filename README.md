@@ -1,2 +1,2 @@
-# NASSCOM-VSD-SoC-Design-Program
+# VSD-SoC-Design
 As part of the Workshop VSD SoC Design Course
