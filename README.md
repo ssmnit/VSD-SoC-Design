@@ -52,8 +52,8 @@ Concept of pre-placed cells
 ![image](https://github.com/user-attachments/assets/439421a0-cc4a-4c2a-8ff1-b6fbbe30ac49)
 
 De-coupling Capacitors
-![image](https://github.com/user-attachments/assets/dc9c71e5-493b-4cdf-90d7-8fc7611d985e =250x250)
-![image](https://github.com/user-attachments/assets/377cb8e4-490d-4025-b6bc-55e856c73cb4 =250x250)
+![image|250](https://github.com/user-attachments/assets/dc9c71e5-493b-4cdf-90d7-8fc7611d985e )
+![image|250](https://github.com/user-attachments/assets/377cb8e4-490d-4025-b6bc-55e856c73cb4 )
 
 
 
