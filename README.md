@@ -55,6 +55,32 @@ De-coupling Capacitors
 ![image|250](https://github.com/user-attachments/assets/dc9c71e5-493b-4cdf-90d7-8fc7611d985e )
 ![image|250](https://github.com/user-attachments/assets/377cb8e4-490d-4025-b6bc-55e856c73cb4 )
 
+Power Planning
+All the elements of the circuit demanding current at the same time and decoupling capacitor is supposed to provides charge to all the elements. Sometimes it is not possible that all the macro would be connected to decoupling capacitor from the direct supply.
+![image](https://github.com/user-attachments/assets/23cff40c-6fc9-4c51-a249-fa2b447e4d84)
+![image](https://github.com/user-attachments/assets/867da02f-9db2-4e1b-8840-69e28c51d95e)
+To avoid voltage droop multiple points (or supply) are provided
+![image](https://github.com/user-attachments/assets/cbf7dd47-d09b-448d-8310-61989d2d39f1)
+![image](https://github.com/user-attachments/assets/85dc4c45-bbbd-4f58-8720-5cba35096820)
+
+Pin placement and logical cell placement blockage
+![image](https://github.com/user-attachments/assets/853bc000-cc46-4dd1-8cab-ae18e4dde263)
+Complete Design 
+![image](https://github.com/user-attachments/assets/56206c24-70ff-4b9b-aea8-8814a95e4c88)
+![image](https://github.com/user-attachments/assets/ad3004fd-552e-4793-a996-25e5bf17711d)
+clock ports are bigger in size than the i/o ports. Clock drives all the bocks of the chips so we need least resistance path to the signal to flow. Logical cell placement blockage to avoid making any cell in the area, the place is not used for placement of blocks.
+![image](https://github.com/user-attachments/assets/320ae891-f922-4740-9501-53bc29b23831)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
