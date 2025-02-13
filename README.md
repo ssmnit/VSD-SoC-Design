@@ -46,6 +46,17 @@ Practically we go for 50-60% utilization factor.
 Example - Aspect Ratio (or utilization factor) = 0.5
 ![image](https://github.com/user-attachments/assets/71b73682-95f4-41b6-8d41-abc927fefb05)
 
+![image](https://github.com/user-attachments/assets/c25f1fdf-4a88-4bd7-9888-0860260791da)
+Concept of pre-placed cells
+![image](https://github.com/user-attachments/assets/da17e9a8-17c0-416b-a081-9113794f327b)
+![image](https://github.com/user-attachments/assets/439421a0-cc4a-4c2a-8ff1-b6fbbe30ac49)
+
+De-coupling Capacitors
+![image](https://github.com/user-attachments/assets/dc9c71e5-493b-4cdf-90d7-8fc7611d985e =250x250)
+![image](https://github.com/user-attachments/assets/377cb8e4-490d-4025-b6bc-55e856c73cb4 =250x250)
+
+
+
 
  
 
