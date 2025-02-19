@@ -74,6 +74,11 @@ Complete Design
 
 clock ports are bigger in size than the i/o ports. Clock drives all the bocks of the chips so we need least resistance path to the signal to flow. Logical cell placement blockage to avoid making any cell in the area, the place is not used for placement of blocks.
 ![image](https://github.com/user-attachments/assets/320ae891-f922-4740-9501-53bc29b23831)
+![image](https://github.com/user-attachments/assets/4858aa07-aeef-42a2-9b17-7074c75a5a43)
+
+
+![image](https://github.com/user-attachments/assets/3f307f08-9be0-49ec-966f-e8d66f37e62e)
+
 
 
 
